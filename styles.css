@@ -1,0 +1,16 @@
+.bg-image {
+    background-image: url("/images/background.jpg");
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-color: rgba(0, 0, 0, 0.1);
+}
+
+/* #backgroundSmall{
+    background-color: brown
+    
+} */
+
+#systumm{
+    background-color: rgb(18, 18, 136);
+}
